@@ -8,8 +8,8 @@
 
 I want to make difference and willing to work hard for skillful career rather than regular career that I can be satisfied for. I want to work hard, be responsible and improve my profession and skills with a reputed organization in an ethical way in order to accept challengess.
 <br>
+<br>
 <img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" />
-
 - 🔭 I’m a Co-Founder at [MBK - Health Tech](https://www.mbk-health.com)
 - 👨‍💻 I'm also working on Saas Platform for my startup company.
 - 🌱 I’m currently gathering knowledge & experience on React Native.
