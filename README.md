@@ -2,7 +2,7 @@
 <img src="Home.png" width="100%"/>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! What's up...</h1>
 
-### Mobile Development Enthusiasts | Flutter | ReactNative | IOS Nerd 
+### Mobile Development Enthusiasts | Flutter | React Native | IOS Nerd 
 
 <!-- **uannabi/uannabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -34,9 +34,9 @@ I want to make difference and willing to work hard for skillful career rather th
 
 <strong>🔭 you can start from here ...</strong>
 
-<a href="https://github.com/AyushTripathi28/FreelancePortfolio"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsair&repo=itsair.github.io" width=400> </a> 
-<a href="https://github.com/AyushTripathi28/Presicely"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushTripathi28&repo=WallPie" width=400> </a> 
-<a href="https://github.com/AyushTripathi28/ContactsApp"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushTripathi28&repo=WallPie" width=400> </a> 
+<a href="https://github.com/AyushTripathi28/FreelancePortfolio"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushTripathi28&repo=FreelancePortfolio" width=400>  </a> 
+<a href="https://github.com/AyushTripathi28/Presicely"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushTripathi28&repo=Presicely" width=400> </a> 
+<a href="https://github.com/AyushTripathi28/ContactsApp"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushTripathi28&repo=ContactsApp" width=400> </a> 
 <hr>
 
 <!-- - 😄 Pronouns: ...
