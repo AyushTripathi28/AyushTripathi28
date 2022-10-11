@@ -2,7 +2,7 @@
 <img src="Home.png" width="100%"/>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! What's up...</h1>
 
-### Mobile Development Enthusiasts | Flutter | ReactNative | AWS Nerd 
+### Mobile Development Enthusiasts | Flutter | ReactNative | IOS Nerd 
 
 <!-- **uannabi/uannabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -10,8 +10,8 @@ I want to make difference and willing to work hard for skillful career rather th
 <br>
 <br>
 <!-- <img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" /> -->
-- 🔭 I’m a Co-Founder at [MBK - Health Tech](https://www.mbk-health.com)
-- 👨‍💻 I'm also working on Saas Platform for my startup company.
+- 🔭 I’m a STUDENT | DEVELOPER | LEARNER
+- 👨‍💻 I'm working on creating something unique.
 - 🌱 I’m currently gathering knowledge & experience on React Native.
 - 👯 I’m looking to collaborate for Hackathon.
 - 🤔 I’m looking for help with Backend stuff.
@@ -27,14 +27,16 @@ I want to make difference and willing to work hard for skillful career rather th
 ## Experienced with 
 <p align="center" >
 <!-- <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/apple_xcode.svg"> </code> -->
+ FLUTTER | REACT NATIVE <br/> C++ | DART <br/> UI/UX | WEB DEV | HTML | CSS | JAVASCRIPT <br/> MY SQL | MONGO DB <br/> FIREBASE | REST API | WEBSOCKET API <br/> POSTMAN | FIGMA | XCODE
 </p>
 
 <hr>
 
 <strong>🔭 you can start from here ...</strong>
 
-<a href="https://github.com/itsair/itsair.github.io"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsair&repo=itsair.github.io" width=400> </a> 
-<a href="https://github.com/AyushTripathi28/WallPie"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushTripathi28&repo=WallPie" width=400> </a> 
+<a href="https://github.com/AyushTripathi28/FreelancePortfolio"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsair&repo=itsair.github.io" width=400> </a> 
+<a href="https://github.com/AyushTripathi28/Presicely"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushTripathi28&repo=WallPie" width=400> </a> 
+<a href="https://github.com/AyushTripathi28/ContactsApp"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=AyushTripathi28&repo=WallPie" width=400> </a> 
 <hr>
 
 <!-- - 😄 Pronouns: ...
