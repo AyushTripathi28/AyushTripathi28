@@ -10,7 +10,7 @@ I want to make difference and willing to work hard for skillful career rather th
 <br>
 <br>
 <!-- <img align="right" src="https://github.com/uannabi/-/blob/master/resource/HelloWorld.gif" width="400px" /> -->
-- 🔭 I’m a STUDENT | DEVELOPER | LEARNER
+- 🔭 I’m a DEVELOPER | LEARNER
 - 👨‍💻 I'm working on creating something unique.
 - 🌱 I’m currently gathering knowledge & experience on React Native.
 - 👯 I’m looking to collaborate for Hackathon.
